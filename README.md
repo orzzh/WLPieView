@@ -4,4 +4,4 @@
 
 练习demo
 
-![Image text](https://raw.githubusercontent.com/orzzh/AuthorizatView/master/3333.gif)
+![Image text](https://raw.githubusercontent.com/orzzh/WLPieView/master/pie.gif)
